@@ -1,0 +1,56 @@
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.csproj.AssemblyReference.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.Form1.resources
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.Properties.Resources.resources
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.csproj.GenerateResource.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.AssemblyInfoInputs.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.AssemblyInfo.cs
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.csproj.CoreCompileInputs.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Ezra.exe
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Ezra.deps.json
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Ezra.runtimeconfig.json
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Ezra.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Ezra.pdb
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\CsvHelper.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.Asio.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.Core.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.Midi.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\StartechFramework.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\refint\Ezra.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.pdb
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.genruntimeconfig.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\ref\Ezra.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.csproj.Up2Date
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Ezra.exe
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Ezra.deps.json
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Ezra.runtimeconfig.json
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Ezra.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Ezra.pdb
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\CsvHelper.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.Asio.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.Core.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.Midi.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\StartechFramework.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.csproj.AssemblyReference.cache
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.Form1.resources
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.Properties.Resources.resources
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.csproj.GenerateResource.cache
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.AssemblyInfoInputs.cache
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.AssemblyInfo.cs
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.csproj.CoreCompileInputs.cache
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.csproj.Up2Date
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\refint\Ezra.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.pdb
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\Ezra.genruntimeconfig.cache
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\obj\Debug\net7.0-windows\ref\Ezra.dll

@@ -1,0 +1,226 @@
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.exe
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\Framework\city.list.json
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.deps.json
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.runtimeconfig.json
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.pdb
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\CsvHelper.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\RestSharp.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\System.Drawing.Common.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\System.Speech.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Speech.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.AssemblyReference.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.MainForm.resources
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.GenerateResource.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfoInputs.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfo.cs
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.CoreCompileInputs.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.CopyComplete
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\refint\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.pdb
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.genruntimeconfig.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\AlarmClock\AlarmClock\obj\Debug\net7.0-windows\ref\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.exe
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.deps.json
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.runtimeconfig.json
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.pdb
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\CsvHelper.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\RestSharp.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\System.Drawing.Common.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\System.Speech.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Speech.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.AssemblyReference.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.MainForm.resources
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.GenerateResource.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfoInputs.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfo.cs
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.CoreCompileInputs.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.CopyComplete
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\refint\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.pdb
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.genruntimeconfig.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\ref\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Asio.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Core.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Midi.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.AssemblyReference.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.MainForm.resources
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.GenerateResource.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfoInputs.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfo.cs
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.CoreCompileInputs.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\refint\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.pdb
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.exe
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.deps.json
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.runtimeconfig.json
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.pdb
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\CsvHelper.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Asio.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Core.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Midi.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\RestSharp.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\StartechFramework.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\System.Drawing.Common.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\System.Speech.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Speech.dll
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.CopyComplete
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.genruntimeconfig.cache
+E:\OneDrive\משרד החינוך\סייבר\Startech Second Year\מבואות\תרגיל ראשון - שעון מעורר\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\ref\AlarmClock.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.exe
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.deps.json
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.runtimeconfig.json
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\AlarmClock.pdb
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\CsvHelper.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\RestSharp.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\StartechFramework.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\System.Drawing.Common.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\System.Speech.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Speech.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.AssemblyReference.cache
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.MainForm.resources
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.GenerateResource.cache
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfoInputs.cache
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfo.cs
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.csproj.CopyComplete
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\refint\AlarmClock.dll
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.pdb
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\AlarmClock.genruntimeconfig.cache
+C:\Users\shanyd\source\repos\AlarmClock\AlarmClock - Stage 2\AlarmClock\obj\Debug\net7.0-windows\ref\AlarmClock.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\AlarmClock.exe
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\AlarmClock.deps.json
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\AlarmClock.runtimeconfig.json
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\AlarmClock.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\AlarmClock.pdb
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\CsvHelper.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\NAudio.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\NAudio.Asio.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\NAudio.Core.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\NAudio.Midi.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\RestSharp.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\StartechFramework.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\System.Drawing.Common.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\System.Speech.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Speech.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.AssemblyReference.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.MainForm.resources
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.GenerateResource.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfoInputs.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfo.cs
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.CoreCompileInputs.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.CopyComplete
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\refint\AlarmClock.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.pdb
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\AlarmClock.genruntimeconfig.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\Clock\obj\Debug\net7.0-windows\ref\AlarmClock.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\AlarmClock.exe
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\AlarmClock.deps.json
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\AlarmClock.runtimeconfig.json
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\AlarmClock.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\AlarmClock.pdb
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\CsvHelper.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\NAudio.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\NAudio.Asio.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\NAudio.Core.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\NAudio.Midi.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\RestSharp.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\StartechFramework.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\System.Drawing.Common.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\System.Speech.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Speech.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.AssemblyReference.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.MainForm.resources
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.GenerateResource.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfoInputs.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfo.cs
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.CoreCompileInputs.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\refint\AlarmClock.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.pdb
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.genruntimeconfig.cache
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\ref\AlarmClock.dll
+D:\Clouds\OneDrive\אישי\כלכלה\עבודות\עבודה שכירה\סטארטק - חינוך סייבר\שנה שנייה\פרויקטים שלי\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.Up2Date
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\AlarmClock.exe
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\AlarmClock.deps.json
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\AlarmClock.runtimeconfig.json
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\AlarmClock.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\AlarmClock.pdb
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\CEC_Framework.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\CsvHelper.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\HtmlAgilityPack.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\NAudio.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\NAudio.Asio.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\NAudio.Core.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\NAudio.Midi.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\bin\Debug\net7.0-windows\RestSharp.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.AssemblyReference.cache
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.MainForm.resources
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.GenerateResource.cache
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfoInputs.cache
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.AssemblyInfo.cs
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.CoreCompileInputs.cache
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.csproj.Up2Date
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\refint\AlarmClock.dll
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.pdb
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\AlarmClock.genruntimeconfig.cache
+D:\Clouds\Mega\כלכלה\עבודות\עבודה שכירה\המרכז לחינוך סייבר\סטארטק\2 - שנה שנייה\פרויקטים שלי\Ezra\Ezra\bin\Debug\net7.0-windows\Data\Projects\Clock\obj\Debug\net7.0-windows\ref\AlarmClock.dll

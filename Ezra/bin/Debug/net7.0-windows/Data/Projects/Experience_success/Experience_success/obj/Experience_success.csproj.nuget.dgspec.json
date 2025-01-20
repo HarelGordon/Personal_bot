@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Clouds\\Mega\\כלכלה\\עבודות\\עבודה שכירה\\המרכז לחינוך סייבר\\שנה שנייה\\פרויקטים שלי\\Experience_success\\Experience_success\\Experience_success.csproj": {}
+  },
+  "projects": {
+    "D:\\Clouds\\Mega\\כלכלה\\עבודות\\עבודה שכירה\\המרכז לחינוך סייבר\\שנה שנייה\\פרויקטים שלי\\Experience_success\\Experience_success\\Experience_success.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Clouds\\Mega\\כלכלה\\עבודות\\עבודה שכירה\\המרכז לחינוך סייבר\\שנה שנייה\\פרויקטים שלי\\Experience_success\\Experience_success\\Experience_success.csproj",
+        "projectName": "Experience_success",
+        "projectPath": "D:\\Clouds\\Mega\\כלכלה\\עבודות\\עבודה שכירה\\המרכז לחינוך סייבר\\שנה שנייה\\פרויקטים שלי\\Experience_success\\Experience_success\\Experience_success.csproj",
+        "packagesPath": "C:\\Users\\Harel Gordon\\.nuget\\packages\\",
+        "outputPath": "D:\\Clouds\\Mega\\כלכלה\\עבודות\\עבודה שכירה\\המרכז לחינוך סייבר\\שנה שנייה\\פרויקטים שלי\\Experience_success\\Experience_success\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Harel Gordon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "StartechFramework": {
+              "target": "Package",
+              "version": "[1.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
